@@ -1,0 +1,23 @@
+{
+  "name": "backend-factureapp",
+  "version": "1.0.0",
+  "description": "Un serveur express qui sert d'API pour notre application FrontEnd en Vue.js",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "facture"
+  ],
+  "author": "Romain GILOT <romain.gilot22@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3",
+    "uuid": "^10.0.0"
+  }
+}

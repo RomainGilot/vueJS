@@ -1,0 +1,162 @@
+[
+  {
+    "billnum": "F2024001",
+    "description": "Description de la facture 1",
+    "date": "2024-06-30",
+    "clientId": "d62c5ab3-cbb6-4ae6-af63-d649e4de8a81",
+    "prestations": [
+      { "description": "Prestation 1", "qty": 10, "price": 10 },
+      { "description": "Prestation 2", "qty": 15, "price": 10 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 250,
+    "tva": 50,
+    "totalTTC": 300,
+    "id": "ca041792-4842-479e-a0b7-dd4d0c49dd21"
+  },
+  {
+    "billnum": "F2024002",
+    "description": "Description de la facture 2",
+    "date": "2024-06-30",
+    "clientId": "e1fe5ec4-4f12-4d01-89b2-3356f4a48b5a",
+    "prestations": [
+      { "description": "Prestation 3", "qty": 8, "price": 12 },
+      { "description": "Prestation 4", "qty": 12, "price": 15 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 276,
+    "tva": 55.2,
+    "totalTTC": 331.2,
+    "id": "99b56e76-d1d7-4464-bf15-712b5731d89e"
+  },
+  {
+    "billnum": "F2024003",
+    "description": "Description de la facture 3",
+    "date": "2024-06-29",
+    "clientId": "ac3d03c8-d1e0-4a6b-baf3-3af6dbfe5b1d",
+    "prestations": [
+      { "description": "Prestation 5", "qty": 5, "price": 20 },
+      { "description": "Prestation 6", "qty": 7, "price": 18 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 260,
+    "tva": 52,
+    "totalTTC": 312,
+    "id": "a7e4f19c-1926-4288-909c-1e5b53d2021b"
+  },
+  {
+    "billnum": "F2024004",
+    "description": "Description de la facture 4",
+    "date": "2024-06-28",
+    "clientId": "d62c5ab3-cbb6-4ae6-af63-d649e4de8a81",
+    "prestations": [
+      { "description": "Prestation 7", "qty": 3, "price": 30 },
+      { "description": "Prestation 8", "qty": 9, "price": 12 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 366,
+    "tva": 73.2,
+    "totalTTC": 439.2,
+    "id": "8c2b4bf4-ee5e-4d30-8f0d-48b400ad835b"
+  },
+  {
+    "billnum": "F2024005",
+    "description": "Description de la facture 5",
+    "date": "2024-06-27",
+    "clientId": "e1fe5ec4-4f12-4d01-89b2-3356f4a48b5a",
+    "prestations": [
+      { "description": "Prestation 9", "qty": 6, "price": 25 },
+      { "description": "Prestation 10", "qty": 11, "price": 14 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 389,
+    "tva": 77.8,
+    "totalTTC": 466.8,
+    "id": "b20c5de1-7898-4a12-b8a7-d681e346fa29"
+  },
+  {
+    "billnum": "F2024006",
+    "description": "Description de la facture 6",
+    "date": "2024-06-26",
+    "clientId": "ac3d03c8-d1e0-4a6b-baf3-3af6dbfe5b1d",
+    "prestations": [
+      { "description": "Prestation 11", "qty": 4, "price": 22 },
+      { "description": "Prestation 12", "qty": 8, "price": 16 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 320,
+    "tva": 64,
+    "totalTTC": 384,
+    "id": "f4b58f7f-5d50-4b35-9b09-ef54c8b60e35"
+  },
+  {
+    "billnum": "F2024007",
+    "description": "Description de la facture 7",
+    "date": "2024-06-25",
+    "clientId": "d62c5ab3-cbb6-4ae6-af63-d649e4de8a81",
+    "prestations": [
+      { "description": "Prestation 13", "qty": 7, "price": 18 },
+      { "description": "Prestation 14", "qty": 10, "price": 15 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 255,
+    "tva": 51,
+    "totalTTC": 306,
+    "id": "c320e0ab-25d2-4a7e-9c3f-7dd9eeff6ff2"
+  },
+  {
+    "billnum": "F2024008",
+    "description": "Description de la facture 8",
+    "date": "2024-06-24",
+    "clientId": "e1fe5ec4-4f12-4d01-89b2-3356f4a48b5a",
+    "prestations": [
+      { "description": "Prestation 15", "qty": 9, "price": 14 },
+      { "description": "Prestation 16", "qty": 11, "price": 12 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 296,
+    "tva": 59.2,
+    "totalTTC": 355.2,
+    "id": "a4dd1e3f-3f8c-40b8-bfa7-e7bbcb2b28d1"
+  },
+  {
+    "billnum": "F2024009",
+    "description": "Description de la facture 9",
+    "date": "2024-06-23",
+    "clientId": "ac3d03c8-d1e0-4a6b-baf3-3af6dbfe5b1d",
+    "prestations": [
+      { "description": "Prestation 17", "qty": 12, "price": 16 },
+      { "description": "Prestation 18", "qty": 6, "price": 18 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 312,
+    "tva": 62.4,
+    "totalTTC": 374.4,
+    "id": "848c67e2-256f-4932-8a4e-ea6ea6d4b0d6"
+  },
+  {
+    "billnum": "F2024010",
+    "description": "Description de la facture 10",
+    "date": "2024-06-22",
+    "clientId": "d62c5ab3-cbb6-4ae6-af63-d649e4de8a81",
+    "prestations": [
+      { "description": "Prestation 19", "qty": 11, "price": 12 },
+      { "description": "Prestation 20", "qty": 9, "price": 14 }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 258,
+    "tva": 51.6,
+    "totalTTC": 309.6,
+    "id": "b9b5f6d3-9a19-4b52-80d6-d7a9d7b8dd77"
+  }
+]

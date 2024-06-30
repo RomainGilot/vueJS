@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "fonction": "Manager",
+    "addedDate": "2024-06-30T10:31:10.956Z",
+    "companyName": "ACME Corporation",
+    "contact": { "phone": "1234567890", "email": "john.doe@example.com" },
+    "address": {
+      "address1": "123 Main St",
+      "address2": "",
+      "postalCode": "12345",
+      "city": "Anytown",
+      "country": "USA"
+    },
+    "id": "d62c5ab3-cbb6-4ae6-af63-d649e4de8a81"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "fonction": "Sales Representative",
+    "addedDate": "2024-06-29T09:15:22.457Z",
+    "companyName": "Smith Enterprises",
+    "contact": { "phone": "9876543210", "email": "jane.smith@example.com" },
+    "address": {
+      "address1": "456 Elm St",
+      "address2": "Suite 200",
+      "postalCode": "54321",
+      "city": "Othertown",
+      "country": "USA"
+    },
+    "id": "e1fe5ec4-4f12-4d01-89b2-3356f4a48b5a"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "fonction": "Consultant",
+    "addedDate": "2024-06-28T14:05:18.631Z",
+    "companyName": "Johnson Consulting",
+    "contact": { "phone": "4567890123", "email": "robert.johnson@example.com" },
+    "address": {
+      "address1": "789 Oak St",
+      "address2": "Floor 5",
+      "postalCode": "67890",
+      "city": "Smalltown",
+      "country": "USA"
+    },
+    "id": "ac3d03c8-d1e0-4a6b-baf3-3af6dbfe5b1d"
+  }
+]
